@@ -16,12 +16,14 @@ body {
 
 .header-logo {
     color: #f9faf8;
+    font-size: 24px;
 }
 
 .header-links {
     display: flex;
     gap: 25px;
     color: #e5e7eb;
+    font-size: 18px;
 }
 
 .quote-container{
