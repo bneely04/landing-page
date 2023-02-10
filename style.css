@@ -27,8 +27,31 @@ body {
 }
 
 .quote-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
     text-align: center;
-    background-color: #E5E7EB;
+    background-color: #cccdd1;
+}
+
+.top-div {
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 70px;
+}
+
+.sign-up-filled {
+    background-color: #3882f6;
+    outline: none;
+    border: none;
+    color: #f9faf8;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    font-weight: bold;
 }
 
 footer{
