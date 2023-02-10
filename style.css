@@ -23,6 +23,9 @@ body {
     gap: 25px;
     color: #e5e7eb;
 }
+
+.quote-container{
+    text-align: center;
 footer{
     background-color: #1f2937
     
